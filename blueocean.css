@@ -1,0 +1,570 @@
+.TextArea a{
+    color: white
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    background: linear-gradient(to right, #0077b6, #00b4d8);
+}
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding-bottom: 10px;
+    background-color: rgb(25,123,162);
+}
+.blue_ocean_logo{
+    padding: 30px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.unlock{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(16,54,65);
+    text-align: center;
+    align-items: center;
+    padding-bottom: 10px;
+    color: white;
+}
+.learn_more{
+    background-color: rgb(64,136,157);
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+}
+.header_text{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items:center;
+    gap: 10px;
+}
+.svg{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+svg{
+    cursor: pointer;
+}
+.demo{
+    background-color: rgb(64,136,157);
+    width: 150px;
+    height: 35px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+.decisions{
+    padding: 0 10px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+h1{
+    font-size: 20px;
+}
+p{
+    font-size: 12.5px;
+}
+.case{
+    display: flex;
+    flex-direction: column;
+}
+.studies{
+    background-color: rgb(10,32,39);
+    text-align: center;
+    align-items: center;
+}
+.case{
+    color: white;
+    background-color: rgb(10,32,39);
+}
+.hopkins{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.blueocean_microsoft{
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+}
+.blueocean_news h4{
+    text-align: center;
+    font-size: 20px;
+}
+.news{
+    margin-top: 80px;
+    text-align: center;
+    align-items: center;
+    color: rgb(41,94,110);
+
+}
+.hr1{
+    display: none;
+}
+.blueocean_microsoft p{
+    font-size: large;
+}
+.case_study{
+    background-color: rgb(223,241,247);
+    width: 150px;
+    height: 35px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    color: rgb(0,0,28);
+}
+.dir{
+    color: white;
+    font-size: small;
+}
+.data{
+    color: white;
+    font-size: small;
+}
+.Hoppins{
+    color: white;
+    font-style: bold;
+}
+.brand_navigator{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+}
+.stage_text{
+    text-align: center;
+}
+.stage_text h1{
+    color: rgb(41,94,110);
+}
+.Navigator{
+    background-color: rgb(64,136,157);
+    width: 199px;
+    height: 40px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+.collage{
+    width: 300px;
+}
+.trusted_brands{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tb1{
+    margin-bottom: 5px;
+    background-color: rgb(240,249,251);
+    color: rgb(41,94,110);
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.tb1 h1{
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+}
+.images{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+.images2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+.hr7{
+    width: 2px;
+}
+.images3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+.images4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+.img{
+    display: flex;
+    flex-direction: column;
+}
+.new{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.blueocean_news_1{
+    text-align: center;
+    align-items: center;
+}
+.new1{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    border: solid 1px grey;
+    width: 100px;
+    border-radius: 2px;
+    align-items: center;
+}
+.new2{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    border: solid 1px grey;
+    width: 100px;
+    border-radius: 2px;
+    align-items: center;
+}
+.new2 img{
+    width: 95;
+}
+.new3{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    border: solid 1px grey;
+    width: 100px;
+    border-radius: 2px;
+    align-items: center;
+}
+.faq{
+    margin-top: 80px;
+    padding: 90px;
+    background-color: rgb(240,249,251);
+}
+footer{
+    align-items: center;
+    background-color: #2d3b44;
+}
+.get-in-touch{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px;
+}
+.touch{
+    color: white;
+    background-color: #2d3b44;
+    border: solid 2px white; 
+    border-radius: 50px;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-top: 19px;
+}
+.techCrunch{
+    width: 100px;
+}
+.cpy{
+    color: white;
+    font-size: 14px;
+    margin-top: 17px;
+}
+.git{
+    display: flex;
+    flex-direction: column;
+}
+.git-textarea{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.TextArea{
+    display: flex;
+    flex-direction: column;
+}
+.products{
+    color: white;
+    font-size: 18px;
+}
+.quest{
+    font-size: 19px;
+}
+.company{
+    padding-bottom: 30px;
+}
+
+@media screen and (min-width:328px) {
+    header{
+        flex-direction: row;
+        gap: 600px;
+        align-items: center;
+        background-color: rgb(25,123,162);
+    }
+    .blue_ocean_logo{
+        padding:30px
+    }
+    .unlock{
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+        gap: 40px;
+        background-color: rgb(16,54,65);
+        height: 50px;
+        text-align: center;
+        color: white;
+    }
+    .header_text{
+        flex-direction: row;
+        align-items: center;
+        gap: 20px;
+    }
+    .hr1{
+        display: block;
+        width: 1000px;
+    }
+    .svg{
+        display: flex;
+        gap: 5px;
+        align-items: center;
+    }
+    .svg{
+        display: flex;
+        gap: 5px;
+        align-items: center;
+    }
+    .decisions{
+        color: white;
+        text-align: center;
+        justify-content: center;
+        padding-top: 90px;
+    }
+    h1{
+        font-size: 50px;
+    }
+    p{
+        font-size: 25px;
+    }
+    .copyright{
+        float: left;
+        text-align: left;
+        align-items: start;
+        padding-bottom: 10px;
+        display: flex;
+        flex-direction: row;
+        gap: 30px;
+    }
+    .case{
+        flex-direction: row;
+        justify-content: center;
+    }
+    .blueocean_microsoft{
+        align-items: center;
+        text-align: left;
+    }
+    .hopkins{
+        flex-direction: row;
+        justify-content: center;
+        gap: 50px;
+        align-items: center;
+    }
+    .studies{
+        background-color: rgb(10,32,39);
+        text-align: left;
+    }
+    .Hoppins{
+        color: white;
+        font-style: bold;
+        font-size: 20px;
+    }
+    .brand_navigator{
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+    .stage_text{
+        text-align: left;
+    }
+    .collage{
+        width: 700px;
+    }
+    .trusted_brands{
+        display: flex;
+        flex-direction: row;
+        gap: 50px;
+        align-items: center;
+    }
+    .images{
+        flex-direction: row;
+        gap: 50px;
+    }
+    .images2{
+        flex-direction: row;
+        gap: 50px;
+    }
+    .images3{
+        flex-direction: row;
+        gap: 50px;
+    }
+    .hr7{
+        float: left;
+        width: 1230px;
+    }
+    .images4{
+        flex-direction: row;
+        gap: 80px;
+    }
+    .tb1{
+        margin: 0;
+        background-color: rgb(240,249,251);
+        color: rgb(41,94,110);
+        text-align: left;
+        width: 800px;
+        height: 500px;
+    }
+    .img{
+        flex-direction: column;
+        gap: 50px;
+    }
+    .tb1 h1{
+        padding-top: 150px;
+        padding-left: 250px;
+    }
+    .new{
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+    }
+    .new1{
+        display: flex;
+        justify-content: center;
+        height: 50px;
+        width: 200px;
+        padding: 50px;
+        border: solid 1px grey;
+        border-radius: 2px;
+        align-items: center;
+        text-align: center;
+    }
+    .new2{
+        display: flex;
+        justify-content: center;
+        height: 50px;
+        width: 200px;
+        padding: 50px;
+        border: solid 1px grey;
+        border-radius: 2px;
+        align-items: center;
+        text-align: center;
+    }
+    .new3{
+        display: flex;
+        justify-content: center;
+        height: 50px;
+        width: 200px;
+        padding: 50px;
+        border: solid 1px grey;
+        border-radius: 2px;
+        align-items: center;
+        text-align: center;
+    }
+    .found{
+        color: #00b4d8;
+    }
+    .questions{
+        font-size: 30px;
+        color: #2d3b44;
+    }
+    .faqsss{
+        display: flex;
+        align-items: center;
+    }
+    .svg3{
+        padding-left: 860px;
+        float: right;
+        text-align: right;
+    }
+    .svg2{
+        padding-left: 860px;
+        float: right;
+        text-align: right;
+    }
+    .techCrunch{
+        width: 200px;
+    }
+    .svg1{
+        padding-left: 550px;
+        float: right;
+        text-align: right;
+    }
+    .faqss{
+        display: flex;
+        align-items: center;
+    }
+    .faqs h2{
+        font-weight: 700px;
+        line-height: 1px;
+    }
+    .faqs{
+        text-align: start;
+        padding-left: 50px;
+        padding-right: 50px;
+        display: flex;
+        justify-items: left;
+        flex-direction: column;
+    }
+    .get-in-touch{
+        flex-direction: column;
+        text-align: left;
+    }
+    .touch{
+        color: white;
+        background-color: #2d3b44;
+        border: solid 2px white;
+        border-radius: 50px;
+        padding: 20px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .logo{
+        width: 50px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .git-textarea{
+        flex-direction: column;
+        gap: 100px;
+    }
+    .TextArea{
+        padding-top: 30px;
+        gap: 200px;
+        flex-direction: row;
+    }
+    .git{
+        gap: 200px;
+        flex-direction: row;
+    }
+    .get-in-touch{
+        flex-direction: column;
+        justify-content: space-between;
+        padding: 30px;
+    }
+}
