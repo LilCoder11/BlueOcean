@@ -19,6 +19,9 @@ header{
 .blue_ocean_logo{
     padding: 30px;
 }
+.found{
+    color: aqua;
+}
 a{
     color: white;
     text-decoration: none;
@@ -255,7 +258,7 @@ p{
 }
 .faq{
     margin-top: 80px;
-    padding: 90px;
+    padding: 50px;
     background-color: rgb(240,249,251);
 }
 footer{
